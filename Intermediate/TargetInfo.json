@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Galaga_USFX_LAB06",
+			"Path": "F:\\Facultad de Tecnologia\\Programacion Avanzada\\Galaga_USFX_LAB06\\Source\\Galaga_USFX_LAB06.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Galaga_USFX_LAB06Editor",
+			"Path": "F:\\Facultad de Tecnologia\\Programacion Avanzada\\Galaga_USFX_LAB06\\Source\\Galaga_USFX_LAB06Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
